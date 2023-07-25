@@ -1,0 +1,30 @@
+.back{
+    margin: -10px;
+    
+    height: 100vh;
+    width: 1500px;
+    background : antiquewhite;
+    border: 1px solid gray;
+    opacity:0.8;
+}
+.text
+{
+    position: relative;
+    text-align: center;
+    border: 0px solid;
+    background: transparent;
+    margin-top: 300px;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+body{
+    background-image: url("https://static.mirchi.in/thumb/imgsize-12458,msid-101824498,width-800,height-450,resizemode-1/101824498.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
